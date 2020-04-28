@@ -1,4 +1,4 @@
-package com.hellodiffa.jetpackcomposeexample
+package com.hellodiffa.jetpackcomposeexample.presentation
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
